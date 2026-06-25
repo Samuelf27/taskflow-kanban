@@ -15,6 +15,8 @@ Quadro Kanban com arrastar-e-soltar, persistência local e instalável como app 
   <a href="https://samuelf27.github.io/taskflow-kanban/"><b>🔗 Ver ao vivo</b></a>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Samuelf27/taskflow-kanban/main/preview.png" alt="Preview do projeto" width="760" /></p>
+
 ---
 
 ## 📌 Sobre o projeto
